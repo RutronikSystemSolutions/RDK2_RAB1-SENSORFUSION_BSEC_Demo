@@ -46,7 +46,7 @@ TARGET=RDK2
 #
 # If APPNAME is edited, ensure to update or regenerate launch
 # configurations for your IDE.
-APPNAME=rdk2_rab1-sensorfusion_bsec_demo
+APPNAME=rdk2-rab1-sensorfusion-bsec-demo
 
 # Name of toolchain to use. Options include:
 #
